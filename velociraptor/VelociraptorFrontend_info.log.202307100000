@@ -95,3 +95,4 @@
 {"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50751: remote error: tls: unknown certificate\n","time":"2023-07-14T11:30:59Z"}
 {"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50755: remote error: tls: unknown certificate\n","time":"2023-07-14T11:31:03Z"}
 {"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50756: remote error: tls: unknown certificate\n","time":"2023-07-14T11:31:04Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org ","time":"2023-07-14T11:34:43Z"}
