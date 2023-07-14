@@ -1,0 +1,7 @@
+{"level": "info", "msg": "Starting...", "time": "2023-07-14T11:24:43.127052188Z"}
+{"level": "info", "msg": "Starting...", "time": "2023-07-14T11:24:43.149575252Z"}
+{"level": "info", "msg": "Starting...", "time": "2023-07-14T11:24:43.152481064Z"}
+{"level":"info","msg":"GUI is ready to handle TLS requests on <green>https://splunk-velo:8889/","time":"2023-07-14T11:24:43Z"}
+{"level":"info","method":"GET","msg":"","remote":"192.168.160.1:50752","status":200,"time":"2023-07-14T11:31:03Z","url":"/app/index.html","user":"analyst","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}
+{"level":"info","method":"POST","msg":"","remote":"192.168.160.1:50752","status":200,"time":"2023-07-14T11:31:04Z","url":"/api/v1/GetReport","user":"analyst","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}
+{"level":"info","method":"GET","msg":"","remote":"192.168.160.1:50752","status":200,"time":"2023-07-14T11:31:04Z","url":"/api/v1/GetUserUITraits","user":"analyst","user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}

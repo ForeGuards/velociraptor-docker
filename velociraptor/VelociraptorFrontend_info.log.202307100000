@@ -1,0 +1,97 @@
+{"level": "info", "msg": "Starting...", "time": "2023-07-14T11:24:43.126695199Z"}
+{"level": "info", "msg": "Starting...", "time": "2023-07-14T11:24:43.149261311Z"}
+{"level": "info", "msg": "Starting...", "time": "2023-07-14T11:24:43.152184319Z"}
+{"build_time":"2023-05-24T23:33:19Z","commit":"be0af2d","level":"info","msg":"<green>Starting</> Frontend.","time":"2023-07-14T11:24:43Z","version":"0.6.9"}
+{"level":"info","msg":"Increased open file limit to 999999","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Org Manager service.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Starting services for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Frontend:</> Server will be master.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Filestore implementation</> FileBaseDataStore.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> user manager service for org ","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Journal service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> the notification service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Ping","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"FrontendService: Watching for events from Server.Internal.FrontendMetrics","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Pong","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"NotificationService: Watching for events from Server.Internal.Notifications","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"InventoryService: Watching for events from Server.Internal.Inventory","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Inventory Service for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"InventoryService: Reloading inventory from file for org ","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Starting repository manager for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"RepositoryManager: Watching for events from Server.Internal.ArtifactModification","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Loaded 361 built in artifacts in 105.560206ms","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Loaded 0 custom artifacts in 14.078µs","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"HuntDispatcher: Watching for events from Server.Internal.HuntUpdate","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Hunt Dispatcher Service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> hunt manager service for Root Org with rate limit 30/s.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.HuntModification","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Hunt.Participation","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Label","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"HuntManager: Watching for events from Server.Internal.Interrogation","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"HuntManager: Watching for events from System.Flow.Completion","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Enrollment service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from System.Flow.Completion","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from System.Flow.Completion","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"InterrogationService: Watching for events from Server.Internal.Enrollment","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Client Info service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientDelete","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientTasks","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.ClientPing","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"ClientInfoManager: Watching for events from Server.Internal.Interrogation","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Indexing Service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> VFS writing service for Root Org.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"VFSService: Watching for events from System.Flow.Completion","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Indexing Service</>: Rebuilding Full index from filestore - this can take a while.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"VFSService: Watching for events from System.Flow.Completion","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Indexing service</> search index loaded 0 items in 229ns","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"VFSService: Watching for events from System.Flow.Completion","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Labeler: Watching for events from Server.Internal.Label","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Client Monitoring Service for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"client_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Label service.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Reloading client monitoring tables from datastore\n","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Creating default Client Monitoring Service","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"server_monitoring: <green>Starting</> Server Monitoring Service for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.ArtifactModification","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"server_monitoring_service: Watching for events from Server.Internal.MetadataModifications","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>server_monitoring</>: Updating monitoring table","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> Server Artifact Runner Service for Root Org","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Updating Client Event Table</> because ClientEventTable was updated","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Converting legacy client index to new format","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Server upgrade detected  -> 0.6.9... running upgrades.","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"OSQueryLinux","github_project":"Velocidex/OSQuery-Releases","github_asset_regex":"linux-amd64"},"level":"info","msg":"Upgrading tool <red>OSQueryLinux","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"OSQueryDarwin","github_project":"Velocidex/OSQuery-Releases","github_asset_regex":"darwin-amd64"},"level":"info","msg":"Upgrading tool <red>OSQueryDarwin","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"VelociraptorWindows","url":"https://github.com/Velocidex/velociraptor/releases/download/v0.6.9/velociraptor-v0.6.9-windows-amd64.exe","serve_locally":true,"version":"0.6.9"},"level":"info","msg":"Upgrading tool <red>VelociraptorWindows:0.6.9","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"VelociraptorWindows_x86","url":"https://github.com/Velocidex/velociraptor/releases/download/v0.6.9/velociraptor-v0.6.9-windows-386.exe","serve_locally":true,"version":"0.6.9"},"level":"info","msg":"Upgrading tool <red>VelociraptorWindows_x86:0.6.9","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"VelociraptorLinux","url":"https://github.com/Velocidex/velociraptor/releases/download/v0.6.9/velociraptor-v0.6.9-linux-amd64-musl","serve_locally":true,"version":"0.6.9"},"level":"info","msg":"Upgrading tool <red>VelociraptorLinux:0.6.9","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"VelociraptorDarwin","url":"https://github.com/Velocidex/velociraptor/releases/download/v0.6.9/velociraptor-v0.6.9-darwin-amd64","serve_locally":true,"version":"0.6.9"},"level":"info","msg":"Upgrading tool <red>VelociraptorDarwin:0.6.9","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"VelociraptorWindowsMSI","url":"https://github.com/Velocidex/velociraptor/releases/download/v0.6.9/velociraptor-v0.6.9-windows-amd64.msi","serve_locally":true,"version":"0.6.9"},"level":"info","msg":"Upgrading tool <red>VelociraptorWindowsMSI:0.6.9","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"VelociraptorWindows_x86MSI","url":"https://github.com/Velocidex/velociraptor/releases/download/v0.6.9/velociraptor-v0.6.9-windows-386.msi","serve_locally":true,"version":"0.6.9"},"level":"info","msg":"Upgrading tool <red>VelociraptorWindows_x86MSI:0.6.9","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"SharpHound","url":"https://github.com/BloodHoundAD/BloodHound/raw/master/Collectors/SharpHound.exe"},"level":"info","msg":"Upgrading tool <red>SharpHound","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"NirsoftBrowsingHistoryView64","url":"https://github.com/Velocidex/Tools/raw/main/BrowsingHistoryView/BrowsingHistoryView-amd64.exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>NirsoftBrowsingHistoryView64","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"SBECmd","url":"https://github.com/Velocidex/Tools/raw/main/SBECmd/ShellBagsExplorer/SBECmd.exe"},"level":"info","msg":"Upgrading tool <red>SBECmd","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"SysmonBinary","url":"https://live.sysinternals.com/tools/sysmon64.exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>SysmonBinary","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"SysmonConfig","url":"https://raw.githubusercontent.com/SwiftOnSecurity/sysmon-config/master/sysmonconfig-export.xml","serve_locally":true},"level":"info","msg":"Upgrading tool <red>SysmonConfig","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"WinPmem","url":"https://github.com/Velocidex/WinPmem/releases/download/v4.0.rc1/winpmem_mini_x64_rc2.exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>WinPmem","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"Bulk_Extractor_Binary","url":"https://github.com/Velocidex/Tools/raw/main/BulkExtractor/bulk_extractor.exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>Bulk_Extractor_Binary","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"SunburstYARARules","url":"https://raw.githubusercontent.com/fireeye/sunburst_countermeasures/main/all-yara.yar"},"level":"info","msg":"Upgrading tool <red>SunburstYARARules","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"WinPmem64","github_project":"Velocidex/WinPmem","github_asset_regex":"winpmem_mini_x64.+exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>WinPmem64","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"Intezer","url":"https://analyze.intezer.com/api/scans/download"},"level":"info","msg":"Upgrading tool <red>Intezer","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"etl2pcapng","url":"https://github.com/microsoft/etl2pcapng/releases/download/v1.4.0/etl2pcapng.zip"},"level":"info","msg":"Upgrading tool <red>etl2pcapng","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"OSQueryWindows","github_project":"Velocidex/OSQuery-Releases","github_asset_regex":"windows-amd64.exe"},"level":"info","msg":"Upgrading tool <red>OSQueryWindows","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"Autorun_386","url":"https://live.sysinternals.com/tools/autorunsc.exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>Autorun_386","time":"2023-07-14T11:24:43Z"}
+{"Tool":{"name":"Autorun_amd64","url":"https://live.sysinternals.com/tools/autorunsc64.exe","serve_locally":true},"level":"info","msg":"Upgrading tool <red>Autorun_amd64","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Compiled all artifacts.","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"CryptoServerManager: Watching for events from Server.Internal.ClientDelete","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Throttling connections to 100 QPS","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"<green>Starting</> gRPC API server on 0.0.0.0:8001 ","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Launched Prometheus monitoring server on 0.0.0.0:8003 ","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"Frontend is ready to handle client TLS requests at <green>https://splunk-velo:8000/","time":"2023-07-14T11:24:43Z"}
+{"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50744: remote error: tls: unknown certificate\n","time":"2023-07-14T11:30:57Z"}
+{"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50746: remote error: tls: unknown certificate\n","time":"2023-07-14T11:30:57Z"}
+{"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50748: remote error: tls: unknown certificate\n","time":"2023-07-14T11:30:59Z"}
+{"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50751: remote error: tls: unknown certificate\n","time":"2023-07-14T11:30:59Z"}
+{"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50755: remote error: tls: unknown certificate\n","time":"2023-07-14T11:31:03Z"}
+{"level":"info","msg":"http: TLS handshake error from 192.168.160.1:50756: remote error: tls: unknown certificate\n","time":"2023-07-14T11:31:04Z"}

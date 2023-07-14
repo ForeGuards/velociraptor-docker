@@ -1,0 +1,3 @@
+{"Timestamp":"2023-07-14 11:24:43.298071688 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Collecting \u003cgreen\u003eServer.Monitor.Health/Prometheus\u003c/\u003e\n"}
+{"Timestamp":"2023-07-14 11:24:43.299077448 +0000 UTC","Level":"DEFAULT","Message":"server_monitoring: Finished collecting Server.Monitor.Health/Prometheus\n"}
+{"Timestamp":"2023-07-14 11:24:43.29914436 +0000 UTC","Level":"DEBUG","Message":"Query Stats: {\"RowsScanned\":1,\"PluginsCalled\":1,\"FunctionsCalled\":0,\"ProtocolSearch\":0,\"ScopeCopy\":5}\n"}
